@@ -1,0 +1,22 @@
+
+.choices {
+  border: grey 1px solid;
+  padding: 20px; 
+  width: 250px;
+  margin: 5px;
+}
+
+.correct {
+  border: 3px solid green;
+}
+
+.wrong{
+  border: 3px solid red;
+  text-decoration: line-through ;
+}
+
+.next{
+      padding: 10px;
+} 
+
+
