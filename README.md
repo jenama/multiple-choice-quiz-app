@@ -69,3 +69,4 @@ We do mean _one_: completing additional features will _not_ gain you points! Ple
 - C: Add more tests!
 
 See `./mockups/delighters/*.png` for rough descriptions of what A and B would look like.
+# Raffle-It
