@@ -1,28 +1,24 @@
-# 2020 Codecademy Apprenticeship Code Challenge (Frontend Software Engineer)
 
-👋 Hi there!
-Thanks for taking the time to work on a frontend takehome assignment.
-We really appreciate you applying to work at Codecademy!
+# Multiple-choice-quiz-app
 
-This README.md details the prompt for your assignment.
-Rest assured, we won't use the code for anything other than as part of your application.
+## Summary
+  This is a multiple choice application to test your knowledge in HTML and CSS. 
 
-You can see the competencies we'll be grading it on [here](https://github.com/Codecademy/engineering-competencies/blob/master/interviews/frontend-takehome.md). We expect this to take you roughly 2-3 hours. Please let us know if there's anything unclear about it!
-
-For your convenience, we've placed these instructions on [GitHub](https://github.com/Codecademy/internship-code-challenge/tree/master/frontend) and [Codesandbox](https://codesandbox.io/s/multiple-choice-quiz-intern-frontend-takehome-l93ce).
-Please submit using a Codesandbox fork.
-
-## The Situation
-
-Codecademy needs an embeddable `MultipleChoiceQuiz` widget to help learners evaluate their skills.
-It should be viewable on both wide ("desktop") and narrow ("mobile") screens.
-
-You're an engineer at Codecademy and tasked with building it.
-Hooray! 🎉
-
-See `./mockups/*.png` for rough descriptions of what it should look like.
-
-> Don't bother getting your page exactly like our mockups -- just match the general layout.
+### Getting started
+  
+  Create a new react app
+  ```
+  npx create-react-app my-app
+  ```
+  Go inside the react app
+  ```
+  cd my-app
+  ```
+  Run your react app using 
+  ```
+  npm start
+  ```
+  
 
 ### What You're Given
 
