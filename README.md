@@ -14,17 +14,22 @@
   ```
   cd my-app
   ```
+  
+  Install all the dependencies using 
+  ``` 
+  npm install
+  ```
+  
   Run your react app using 
   ```
   npm start
   ```
   
-
 ### What You're Given
 
 Your application code should live in the `src/` directory. We've set it up to work with React, though you're welcome to add other libraries if you need.
 
-In the `src/data/quizzes.js` file, we've exported for you a set of `quizzes`, each of which contains the following data:
+In the `src/data/quizzes.js` file, a set of `quizzes` has been exported, each of which contains the following data:
 
 - `title`: A human-readable display text title for the quiz
 
@@ -32,6 +37,10 @@ In the `src/data/quizzes.js` file, we've exported for you a set of `quizzes`, ea
   - `text`
   - `correctAnswer`
   - `incorrectAnswers`
+
+In order to import the file use 
+
+
 
 ### Feature Requirements
 
